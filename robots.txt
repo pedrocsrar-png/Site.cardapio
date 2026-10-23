@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /api/
+# Adicione: Sitemap: https://SEU-DOMINIO/sitemap.xml
